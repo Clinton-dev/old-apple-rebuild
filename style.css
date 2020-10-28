@@ -84,6 +84,7 @@ footer {
 
 .footer-left a {
   text-decoration: none;
+  color: rgb(63, 125, 219);
 }
 
 .footer ul {
@@ -93,6 +94,6 @@ footer {
 .footer-right li {
   display: inline-block;
   border-right: 1px solid rgb(155, 153, 153);
-  color: blue;
+  color: rgb(63, 125, 219);
   padding-right: 5px;
 }
